@@ -1,0 +1,59 @@
+;;; refile.org notes-inbox
+
+
+* LIFE PLANNING
+
+
+  
+ 
+* COMPLETE COMPUTING ENVORNMENT (CCE):
+  
+- arch linux learn base install
+- keyboard driven desktop
+- apps and utilities to include
+- mobile envirnment
+- vscode for webdev with org in terminal
+
+** LIST OF CCE  WORKFLOWS
+
+** LIST OF CCE TOOLING
+
+
+   
+
+* KNOWLEDGE INFORMATION MANAGEMENT:
+- build system of collections
+- treesheets
+- datacrow
+- freeplane
+
+
+* RESEARCH INFORMATION MANAGEMENT:
+
+* PUBLISHING INFORMATION SYSTEMS:
+
+  
+* COMPUTER SCIENCE KNOWLEDGE: -LIVING-DOCUMENT
+
+* PROGRAMMING 
+ 
+* WEB DEVELOPMENT
+
+* SHELL SCRIPTING
+  
+* APPLICATIONS
+
+* DEVELOPER TOOLS
+
+* COMMAND LINE INTERFACE
+
+* OPERATIONG SYSTEMS
+
+* DESKTOP ENVIRONMENTS
+
+* WINDOW MANAGERS
+
+* DISPLAY MANAGERS
+
+* REGULAR EXPRESSIONS
+
