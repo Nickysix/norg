@@ -1,0 +1,14 @@
+
+
+
+
+
+* LIST: linux applications list:
+
+- broot
+- fd
+- fzf
+- ripgrep
+- zoxide
+- doing
+- pdfgrep
